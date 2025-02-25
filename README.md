@@ -1,6 +1,6 @@
 # Mon_Profil_Tableau_Public_Dashboards_Portfolio
 
-Veuillez cliquer sur le lien ci après pour accèder à mes Dashboards Tableau : 
+Veuillez cliquer sur le lien ci-après pour accèder à mes Dashboards Tableau : 
 https://public.tableau.com/app/profile/hadjer8509
 
 
